@@ -1,0 +1,162 @@
+﻿
+@{
+    ViewBag.Title = "PersonMemberships";
+}
+
+<h2>PersonMemberships</h2>
+
+@using Contenter.Models
+@model Int32?
+<br>
+
+
+<h2 id="orgName"></h2>
+<br>
+<div id="grid"></div>
+
+
+<script>
+
+    var orgId = '@Model';
+    var count = 1;
+    var dataSource = new kendo.data.DataSource({
+
+        transport: {
+            read: {
+                // the remote service url
+                url: "http://localhost:56222/api/MembershipApi/GetMembershipsAsync/" + orgId,
+                // the request type
+                type: "get",
+                // the data type of the returned result
+                dataType: "json",
+                complete: function (data) {
+                    if (data.responseJSON[0]) {
+                        
+                    } else {
+                        $('#orgName').html('No memberships');
+                    }
+                }
+            },
+            create: {
+                url: "http://localhost:56222/api/MembershipApi/PostMembershipAsync/",
+                type: "post",
+                dataType: "json",
+                complete: function (e) {
+                    $("#grid").data("kendoGrid").dataSource.read();
+                }
+            },
+            update: {
+                url: "http://localhost:56222/api/MembershipApi/PutMembershipAsync/",
+                type: "put",
+                dataType: "json",
+                complete: function (e) {
+                    $("#grid").data("kendoGrid").dataSource.read();
+                }
+            },
+            destroy: {
+                url: "http://localhost:56222/api/MembershipApi/DeleteMembershipAsync/",
+                type: "delete",
+                dataType: "json"
+            }
+        },
+        batch: false,
+        // describe the result format
+        schema: {
+            model: {
+                id: "Id",
+                fields: {
+                    Id: { editable: false, nullable: true, type: 'string' },
+                    MembershipNumber: { editable: true, type: 'number'},
+                    AccountBalance: { editable: true, nullable: true, type: 'number' },
+                    Type: { editable: true, nullable: true, type: 'string' }
+
+                }
+            }
+        },
+        pageSize: 9
+    });
+    var singleSelectEditor = function (container, options) {
+        $('<input data-bind="value:' + options.field + '"/>')
+            .appendTo(container)
+            .kendoDropDownList({
+                suggest: true,
+                dataSource: ['Primary', 'Secondary']
+            });
+    };
+
+    $('#grid').kendoGrid({
+
+        dataSource: dataSource,
+        sortable: true,
+        filterable: {
+            extra: false,
+            operators: {
+                string: {
+                    contains: "Contains"
+                }
+            },
+            cell: {
+                enabled: false
+            }
+
+        },
+        pageable: {
+            pageSizes: true,
+            alwaysVisible: false
+        },
+
+        save: function (e) {
+
+            
+                e.model.PersonId = orgId;
+
+            
+        },
+        width: "700px",
+        toolbar: [
+            { name: "create", text: "Add new membership" }
+        ],
+        columns: [
+            {
+                title: 'MemebrshipNumber',
+                field: 'MemebrshipNumber'
+
+            },
+            //    sortable: {
+            //        compare: function (a, b, descending) {
+            //            if (a.Name !== b.Name) {
+            //                return a.Name - b.Name;
+            //            }
+
+            //            if (descending) {
+            //                return b.Id - a.Id;
+            //            } else {
+            //                return a.Id - b.Id;
+            //            }
+            //        }
+
+            //},
+            { title: 'AccountBalance', field: 'AccountBalance', format: "{0:c}" },
+            { title: 'Type', field: 'Type', editor: singleSelectEditor },
+           
+            {
+                command: ["edit", "destroy",], title: "&nbsp;", width: "300px"
+            }],
+        editable: 'popup',
+        createAt: 'bottom',
+        saveChanges: function (e) {
+            if (!confirm("Are you sure you want to save all changes?")) {
+                e.preventDefault();
+            }
+        },
+    });
+
+
+
+
+
+
+</script>
+
+
+

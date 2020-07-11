@@ -1,0 +1,131 @@
+﻿@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+<h3>List of people</h3>
+<br>
+<div id="grid"></div>
+
+
+
+
+<script>
+
+    var dataSource = new kendo.data.DataSource({
+        transport: {
+            read: {
+                // the remote service url
+                url: "http://localhost:56222/api/PersonApi/GetPersonsAsync/",
+                // the request type
+                type: "get",
+                // the data type of the returned result
+                dataType: "json"
+            },
+            create: {
+                url: "http://localhost:56222/api/PersonApi/PostPersonAsync/",
+                type: "post",
+                dataType: "json",
+                complete: function (e) {
+                    $("#grid").data("kendoGrid").dataSource.read();
+                }
+            },
+            update: {
+                url: "http://localhost:56222/api/PersonApi/PutPersonAsync/",
+                type: "put",
+                dataType: "json",
+                complete: function (e) {
+                    $("#grid").data("kendoGrid").dataSource.read();
+                }
+            },
+            destroy: {
+                url: "http://localhost:56222/api/PersonApi/DeletePersonAsync/",
+                type: "delete",
+                dataType: "json"
+            }
+        },
+        batch: false,
+        // describe the result format
+        schema: {
+            model: {
+                id: "Id",
+                fields: {
+                    Id: { editable: false, nullable: true, type: 'number' },
+                    Forename: { editable: true, validation: { required: true } },
+                    Sirname: { editable: true, validation: { required: true } },
+                    Email: { editable: true, validation: { email: true, required: true,  } }
+                }
+            }
+        },
+        pageSize: 9,
+        serverFiltering: false,
+    });
+    var singleSelectEditor = function (container, options) {
+        $('<input data-bind="value:' + options.field + '"/>')
+            .appendTo(container)
+            .kendoDropDownList({
+                suggest: true,
+                dataSource: ['Financial', 'Law', 'Medical', 'IT', 'Educational', 'Industrial', 'Consulting', 'Entertaining']
+            });
+    };
+
+    $('#grid').kendoGrid({
+        dataSource: dataSource,
+        pageable: {
+            pageSizes: true,
+            alwaysVisible: false
+        },
+        filterable: {
+            extra: false,
+            operators: {
+                string: {
+                    contains: "Contains"
+                }
+            },
+            cell: {
+                enabled: false
+            }
+
+        },
+        sortable: true,
+        width: "700px",
+        toolbar: [
+            { name: "create", text: "Add new person" }
+        ],
+        columns: [
+            { title: 'Forename', field: 'Forename' },
+            { title: 'Sirname', field: 'Sirname'},
+            { title: 'Email', field: 'Email'},
+            {
+                command: ["edit", /*"destroy",*/ {
+                    name: "  Details",
+                    iconClass: "k-icon k-i-info",
+                    click: function (e) {
+
+                        // prevent page scroll position change
+                        e.preventDefault();
+                        // e.target is the DOM element representing the button
+                        var tr = $(e.target).closest("tr"); // get the current table row (tr)
+                        // get the data bound to the current table row
+                        var data = this.dataItem(tr);
+                        //console.log("Details for: " + data.name);
+                        var id = data.Id;
+                        if (id != undefined && id != 0) {
+                            window.location = 'http://localhost:56222/Users/PersonMemberships/' + id;
+
+                        }
+                    }
+                },], title: "&nbsp;", width: "200px"
+            }],
+        editable: 'popup',
+        createAt: 'bottom',
+        saveChanges: function (e) {
+            if (!confirm("Are you sure you want to save all changes?")) {
+                e.preventDefault();
+            }
+        },
+    });
+
+</script>
+
+

@@ -1,0 +1,594 @@
+C:\Users\Максим\source\repos\Contenter\Contenter\bin\ApplicationInsights.config
+C:\Users\Максим\source\repos\Contenter\Contenter\bin\Contenter.dll.config
+C:\Users\Максим\source\repos\Contenter\Contenter\bin\Contenter.dll
+C:\Users\Максим\source\repos\Contenter\Contenter\bin\Contenter.pdb
+C:\Users\Максим\source\repos\Contenter\Contenter\bin\roslyn\csc.exe
+C:\Users\Максим\source\repos\Contenter\Contenter\bin\roslyn\csc.exe.config
+C:\Users\Максим\source\repos\Contenter\Contenter\bin\roslyn\csc.rsp
+C:\Users\Максим\source\repos\Contenter\Contenter\bin\roslyn\csi.exe
+C:\Users\Максим\source\repos\Contenter\Contenter\bin\roslyn\csi.exe.config
+C:\Users\Максим\source\repos\Contenter\Contenter\bin\roslyn\csi.rsp
+C:\Users\Максим\source\repos\Contenter\Contenter\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Максим\source\repos\Contenter\Contenter\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Максим\source\repos\Contenter\Contenter\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Максим\source\repos\Contenter\Contenter\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Максим\source\repos\Contenter\Contenter\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Максим\source\repos\Contenter\Contenter\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Максим\source\repos\Contenter\Contenter\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Максим\source\repos\Contenter\Contenter\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Максим\source\repos\Contenter\Contenter\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Максим\source\repos\Contenter\Contenter\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Максим\source\repos\Contenter\Contenter\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Максим\source\repos\Contenter\Contenter\bin\roslyn\System.AppContext.dll
+C:\Users\Максим\source\repos\Contenter\Contenter\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Максим\source\repos\Contenter\Contenter\bin\roslyn\System.Console.dll
+C:\Users\Максим\source\repos\Contenter\Contenter\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Максим\source\repos\Contenter\Contenter\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Максим\source\repos\Contenter\Contenter\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Максим\source\repos\Contenter\Contenter\bin\roslyn\System.IO.Compression.dll
+C:\Users\Максим\source\repos\Contenter\Contenter\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Максим\source\repos\Contenter\Contenter\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Максим\source\repos\Contenter\Contenter\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Максим\source\repos\Contenter\Contenter\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Максим\source\repos\Contenter\Contenter\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Максим\source\repos\Contenter\Contenter\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Максим\source\repos\Contenter\Contenter\bin\roslyn\System.Security.Claims.dll
+C:\Users\Максим\source\repos\Contenter\Contenter\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Максим\source\repos\Contenter\Contenter\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Максим\source\repos\Contenter\Contenter\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Максим\source\repos\Contenter\Contenter\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Максим\source\repos\Contenter\Contenter\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Максим\source\repos\Contenter\Contenter\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Максим\source\repos\Contenter\Contenter\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Максим\source\repos\Contenter\Contenter\bin\roslyn\System.ValueTuple.dll
+C:\Users\Максим\source\repos\Contenter\Contenter\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Максим\source\repos\Contenter\Contenter\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Максим\source\repos\Contenter\Contenter\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Максим\source\repos\Contenter\Contenter\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Максим\source\repos\Contenter\Contenter\bin\roslyn\vbc.exe
+C:\Users\Максим\source\repos\Contenter\Contenter\bin\roslyn\vbc.exe.config
+C:\Users\Максим\source\repos\Contenter\Contenter\bin\roslyn\vbc.rsp
+C:\Users\Максим\source\repos\Contenter\Contenter\bin\roslyn\VBCSCompiler.exe
+C:\Users\Максим\source\repos\Contenter\Contenter\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Максим\source\repos\Contenter\Contenter\bin\Antlr3.Runtime.dll
+C:\Users\Максим\source\repos\Contenter\Contenter\bin\EntityFramework.dll
+C:\Users\Максим\source\repos\Contenter\Contenter\bin\EntityFramework.SqlServer.dll
+C:\Users\Максим\source\repos\Contenter\Contenter\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Максим\source\repos\Contenter\Contenter\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Максим\source\repos\Contenter\Contenter\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Максим\source\repos\Contenter\Contenter\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Максим\source\repos\Contenter\Contenter\bin\Microsoft.AI.Web.dll
+C:\Users\Максим\source\repos\Contenter\Contenter\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Максим\source\repos\Contenter\Contenter\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Максим\source\repos\Contenter\Contenter\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Максим\source\repos\Contenter\Contenter\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Максим\source\repos\Contenter\Contenter\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Максим\source\repos\Contenter\Contenter\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Максим\source\repos\Contenter\Contenter\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Максим\source\repos\Contenter\Contenter\bin\Microsoft.Owin.dll
+C:\Users\Максим\source\repos\Contenter\Contenter\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Максим\source\repos\Contenter\Contenter\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Максим\source\repos\Contenter\Contenter\bin\Microsoft.Owin.Security.dll
+C:\Users\Максим\source\repos\Contenter\Contenter\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Максим\source\repos\Contenter\Contenter\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Максим\source\repos\Contenter\Contenter\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Максим\source\repos\Contenter\Contenter\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Максим\source\repos\Contenter\Contenter\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Максим\source\repos\Contenter\Contenter\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Максим\source\repos\Contenter\Contenter\bin\Newtonsoft.Json.dll
+C:\Users\Максим\source\repos\Contenter\Contenter\bin\Ninject.dll
+C:\Users\Максим\source\repos\Contenter\Contenter\bin\Ninject.Web.Common.dll
+C:\Users\Максим\source\repos\Contenter\Contenter\bin\Ninject.Web.Common.WebHost.dll
+C:\Users\Максим\source\repos\Contenter\Contenter\bin\Ninject.Web.Mvc.dll
+C:\Users\Максим\source\repos\Contenter\Contenter\bin\Ninject.Web.WebApi.dll
+C:\Users\Максим\source\repos\Contenter\Contenter\bin\Owin.dll
+C:\Users\Максим\source\repos\Contenter\Contenter\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Максим\source\repos\Contenter\Contenter\bin\System.Net.Http.Formatting.dll
+C:\Users\Максим\source\repos\Contenter\Contenter\bin\System.Web.Helpers.dll
+C:\Users\Максим\source\repos\Contenter\Contenter\bin\System.Web.Http.dll
+C:\Users\Максим\source\repos\Contenter\Contenter\bin\System.Web.Http.WebHost.dll
+C:\Users\Максим\source\repos\Contenter\Contenter\bin\System.Web.Mvc.dll
+C:\Users\Максим\source\repos\Contenter\Contenter\bin\System.Web.Optimization.dll
+C:\Users\Максим\source\repos\Contenter\Contenter\bin\System.Web.Razor.dll
+C:\Users\Максим\source\repos\Contenter\Contenter\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Максим\source\repos\Contenter\Contenter\bin\System.Web.WebPages.dll
+C:\Users\Максим\source\repos\Contenter\Contenter\bin\System.Web.WebPages.Razor.dll
+C:\Users\Максим\source\repos\Contenter\Contenter\bin\WebActivatorEx.dll
+C:\Users\Максим\source\repos\Contenter\Contenter\bin\WebGrease.dll
+C:\Users\Максим\source\repos\Contenter\Contenter\bin\EntityFramework.xml
+C:\Users\Максим\source\repos\Contenter\Contenter\bin\EntityFramework.SqlServer.xml
+C:\Users\Максим\source\repos\Contenter\Contenter\bin\Ninject.xml
+C:\Users\Максим\source\repos\Contenter\Contenter\bin\Ninject.Web.Common.xml
+C:\Users\Максим\source\repos\Contenter\Contenter\bin\Ninject.Web.Common.WebHost.xml
+C:\Users\Максим\source\repos\Contenter\Contenter\bin\Ninject.Web.Mvc.xml
+C:\Users\Максим\source\repos\Contenter\Contenter\bin\Ninject.Web.WebApi.xml
+C:\Users\Максим\source\repos\Contenter\Contenter\bin\System.Net.Http.Formatting.xml
+C:\Users\Максим\source\repos\Contenter\Contenter\bin\System.Web.Helpers.xml
+C:\Users\Максим\source\repos\Contenter\Contenter\bin\System.Web.Http.xml
+C:\Users\Максим\source\repos\Contenter\Contenter\bin\System.Web.Mvc.xml
+C:\Users\Максим\source\repos\Contenter\Contenter\bin\System.Web.Razor.xml
+C:\Users\Максим\source\repos\Contenter\Contenter\bin\System.Web.WebPages.xml
+C:\Users\Максим\source\repos\Contenter\Contenter\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Максим\source\repos\Contenter\Contenter\bin\System.Web.WebPages.Razor.xml
+C:\Users\Максим\source\repos\Contenter\Contenter\bin\System.Web.Optimization.xml
+C:\Users\Максим\source\repos\Contenter\Contenter\bin\Antlr3.Runtime.pdb
+C:\Users\Максим\source\repos\Contenter\Contenter\bin\Newtonsoft.Json.xml
+C:\Users\Максим\source\repos\Contenter\Contenter\bin\System.Web.Http.WebHost.xml
+C:\Users\Максим\source\repos\Contenter\Contenter\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Максим\source\repos\Contenter\Contenter\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Максим\source\repos\Contenter\Contenter\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Максим\source\repos\Contenter\Contenter\bin\Microsoft.Owin.xml
+C:\Users\Максим\source\repos\Contenter\Contenter\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Максим\source\repos\Contenter\Contenter\bin\Microsoft.Owin.Security.xml
+C:\Users\Максим\source\repos\Contenter\Contenter\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Максим\source\repos\Contenter\Contenter\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Максим\source\repos\Contenter\Contenter\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Максим\source\repos\Contenter\Contenter\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Максим\source\repos\Contenter\Contenter\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Максим\source\repos\Contenter\Contenter\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Максим\source\repos\Contenter\Contenter\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Максим\source\repos\Contenter\Contenter\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Максим\source\repos\Contenter\Contenter\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Максим\source\repos\Contenter\Contenter\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Максим\source\repos\Contenter\Contenter\bin\Microsoft.AI.Web.xml
+C:\Users\Максим\source\repos\Contenter\Contenter\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Максим\source\repos\Contenter\Contenter\obj\Debug\Contenter.csprojAssemblyReference.cache
+C:\Users\Максим\source\repos\Contenter\Contenter\obj\Debug\Contenter.csproj.CoreCompileInputs.cache
+C:\Users\Максим\source\repos\Contenter\Contenter\obj\Debug\Contenter.csproj.CopyComplete
+C:\Users\Максим\source\repos\Contenter\Contenter\obj\Debug\Contenter.dll
+C:\Users\Максим\source\repos\Contenter\Contenter\obj\Debug\Contenter.pdb
+D:\Contenter\Contenter\bin\ApplicationInsights.config
+D:\Contenter\Contenter\bin\Contenter.dll.config
+D:\Contenter\Contenter\bin\Contenter.dll
+D:\Contenter\Contenter\bin\Contenter.pdb
+D:\Contenter\Contenter\bin\roslyn\csc.exe
+D:\Contenter\Contenter\bin\roslyn\csc.exe.config
+D:\Contenter\Contenter\bin\roslyn\csc.rsp
+D:\Contenter\Contenter\bin\roslyn\csi.exe
+D:\Contenter\Contenter\bin\roslyn\csi.exe.config
+D:\Contenter\Contenter\bin\roslyn\csi.rsp
+D:\Contenter\Contenter\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Contenter\Contenter\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Contenter\Contenter\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Contenter\Contenter\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Contenter\Contenter\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Contenter\Contenter\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Contenter\Contenter\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Contenter\Contenter\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Contenter\Contenter\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Contenter\Contenter\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Contenter\Contenter\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Contenter\Contenter\bin\roslyn\System.AppContext.dll
+D:\Contenter\Contenter\bin\roslyn\System.Console.dll
+D:\Contenter\Contenter\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Contenter\Contenter\bin\roslyn\System.Diagnostics.Process.dll
+D:\Contenter\Contenter\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Contenter\Contenter\bin\roslyn\System.IO.Compression.dll
+D:\Contenter\Contenter\bin\roslyn\System.IO.FileSystem.dll
+D:\Contenter\Contenter\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\Contenter\Contenter\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Contenter\Contenter\bin\roslyn\System.IO.Pipes.dll
+D:\Contenter\Contenter\bin\roslyn\System.Reflection.Metadata.dll
+D:\Contenter\Contenter\bin\roslyn\System.Security.AccessControl.dll
+D:\Contenter\Contenter\bin\roslyn\System.Security.Claims.dll
+D:\Contenter\Contenter\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Contenter\Contenter\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Contenter\Contenter\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Contenter\Contenter\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Contenter\Contenter\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Contenter\Contenter\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Contenter\Contenter\bin\roslyn\System.Threading.Thread.dll
+D:\Contenter\Contenter\bin\roslyn\System.ValueTuple.dll
+D:\Contenter\Contenter\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Contenter\Contenter\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Contenter\Contenter\bin\roslyn\System.Xml.XPath.dll
+D:\Contenter\Contenter\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Contenter\Contenter\bin\roslyn\vbc.exe
+D:\Contenter\Contenter\bin\roslyn\vbc.exe.config
+D:\Contenter\Contenter\bin\roslyn\vbc.rsp
+D:\Contenter\Contenter\bin\roslyn\VBCSCompiler.exe
+D:\Contenter\Contenter\bin\roslyn\VBCSCompiler.exe.config
+D:\Contenter\Contenter\bin\Antlr3.Runtime.dll
+D:\Contenter\Contenter\bin\EntityFramework.dll
+D:\Contenter\Contenter\bin\EntityFramework.SqlServer.dll
+D:\Contenter\Contenter\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Contenter\Contenter\bin\Microsoft.AI.DependencyCollector.dll
+D:\Contenter\Contenter\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Contenter\Contenter\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Contenter\Contenter\bin\Microsoft.AI.Web.dll
+D:\Contenter\Contenter\bin\Microsoft.AI.WindowsServer.dll
+D:\Contenter\Contenter\bin\Microsoft.ApplicationInsights.dll
+D:\Contenter\Contenter\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Contenter\Contenter\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Contenter\Contenter\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Contenter\Contenter\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\Contenter\Contenter\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Contenter\Contenter\bin\Microsoft.Owin.dll
+D:\Contenter\Contenter\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Contenter\Contenter\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Contenter\Contenter\bin\Microsoft.Owin.Security.dll
+D:\Contenter\Contenter\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Contenter\Contenter\bin\Microsoft.Owin.Security.Google.dll
+D:\Contenter\Contenter\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Contenter\Contenter\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Contenter\Contenter\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Contenter\Contenter\bin\Microsoft.Web.Infrastructure.dll
+D:\Contenter\Contenter\bin\Newtonsoft.Json.dll
+D:\Contenter\Contenter\bin\Ninject.dll
+D:\Contenter\Contenter\bin\Ninject.Web.Common.dll
+D:\Contenter\Contenter\bin\Ninject.Web.Common.WebHost.dll
+D:\Contenter\Contenter\bin\Ninject.Web.Mvc.dll
+D:\Contenter\Contenter\bin\Ninject.Web.WebApi.dll
+D:\Contenter\Contenter\bin\Owin.dll
+D:\Contenter\Contenter\bin\System.Diagnostics.DiagnosticSource.dll
+D:\Contenter\Contenter\bin\System.Net.Http.Formatting.dll
+D:\Contenter\Contenter\bin\System.Web.Helpers.dll
+D:\Contenter\Contenter\bin\System.Web.Http.dll
+D:\Contenter\Contenter\bin\System.Web.Http.WebHost.dll
+D:\Contenter\Contenter\bin\System.Web.Mvc.dll
+D:\Contenter\Contenter\bin\System.Web.Optimization.dll
+D:\Contenter\Contenter\bin\System.Web.Razor.dll
+D:\Contenter\Contenter\bin\System.Web.WebPages.Deployment.dll
+D:\Contenter\Contenter\bin\System.Web.WebPages.dll
+D:\Contenter\Contenter\bin\System.Web.WebPages.Razor.dll
+D:\Contenter\Contenter\bin\WebActivatorEx.dll
+D:\Contenter\Contenter\bin\WebGrease.dll
+D:\Contenter\Contenter\bin\EntityFramework.xml
+D:\Contenter\Contenter\bin\EntityFramework.SqlServer.xml
+D:\Contenter\Contenter\bin\Ninject.xml
+D:\Contenter\Contenter\bin\Ninject.Web.Common.xml
+D:\Contenter\Contenter\bin\Ninject.Web.Common.WebHost.xml
+D:\Contenter\Contenter\bin\Ninject.Web.Mvc.xml
+D:\Contenter\Contenter\bin\Ninject.Web.WebApi.xml
+D:\Contenter\Contenter\bin\System.Net.Http.Formatting.xml
+D:\Contenter\Contenter\bin\System.Web.Helpers.xml
+D:\Contenter\Contenter\bin\System.Web.Http.xml
+D:\Contenter\Contenter\bin\System.Web.Mvc.xml
+D:\Contenter\Contenter\bin\System.Web.Razor.xml
+D:\Contenter\Contenter\bin\System.Web.WebPages.xml
+D:\Contenter\Contenter\bin\System.Web.WebPages.Deployment.xml
+D:\Contenter\Contenter\bin\System.Web.WebPages.Razor.xml
+D:\Contenter\Contenter\bin\System.Web.Optimization.xml
+D:\Contenter\Contenter\bin\Antlr3.Runtime.pdb
+D:\Contenter\Contenter\bin\Newtonsoft.Json.xml
+D:\Contenter\Contenter\bin\System.Web.Http.WebHost.xml
+D:\Contenter\Contenter\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Contenter\Contenter\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Contenter\Contenter\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Contenter\Contenter\bin\Microsoft.Owin.xml
+D:\Contenter\Contenter\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Contenter\Contenter\bin\Microsoft.Owin.Security.xml
+D:\Contenter\Contenter\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Contenter\Contenter\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Contenter\Contenter\bin\Microsoft.Owin.Security.Google.xml
+D:\Contenter\Contenter\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Contenter\Contenter\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Contenter\Contenter\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Contenter\Contenter\bin\System.Diagnostics.DiagnosticSource.xml
+D:\Contenter\Contenter\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\Contenter\Contenter\bin\Microsoft.AI.DependencyCollector.xml
+D:\Contenter\Contenter\bin\Microsoft.AI.WindowsServer.xml
+D:\Contenter\Contenter\bin\Microsoft.AI.Web.xml
+D:\Contenter\Contenter\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Contenter\Contenter\obj\Debug\Contenter.csproj.CoreCompileInputs.cache
+D:\Contenter\Contenter\obj\Debug\Contenter.csproj.CopyComplete
+D:\Contenter\Contenter\obj\Debug\Contenter.dll
+D:\Contenter\Contenter\obj\Debug\Contenter.pdb
+D:\Contenter\Contenter\bin\roslyn\System.Collections.Immutable.dll
+D:\Contenter\Contenter\obj\Debug\Contenter.csprojAssemblyReference.cache
+D:\Contenter\Contenter\obj\Debug\Contenter.Migrations.InitialCreate.resources
+D:\Contenter\Contenter\obj\Debug\Contenter.csproj.GenerateResource.cache
+D:\Contenter\Contenter\obj\Debug\Contenter.Migrations.DataMigration.resources
+D:\Contenter\Contenter\obj\Debug\Contenter.Migrations.AddCompanyMigration2.resources
+D:\Contenter\Contenter\bin\Ninject.Web.WebApi.WebHost.dll
+D:\Contenter\Contenter\bin\Ninject.Web.WebApi.WebHost.xml
+D:\Contenter\Contenter\bin\HtmlAgilityPack.dll
+D:\Contenter\Contenter\bin\HtmlAgilityPack.pdb
+D:\Contenter\Contenter\bin\HtmlAgilityPack.xml
+D:\Contenter\Contenter\bin\NLog.dll
+D:\Contenter\Contenter\bin\NLog.xml
+D:\Contenter\Contenter\obj\Debug\Contenter.Migrations.AddCompanyMigration.resources
+C:\Users\Максим\source\repos\Contenter\Contenter\obj\Debug\Contenter.Migrations.InitialCreate.resources
+C:\Users\Максим\source\repos\Contenter\Contenter\obj\Debug\Contenter.Migrations.DataMigration.resources
+C:\Users\Максим\source\repos\Contenter\Contenter\obj\Debug\Contenter.Migrations.AddCompanyMigration2.resources
+C:\Users\Максим\source\repos\Contenter\Contenter\obj\Debug\Contenter.Migrations.AddCompanyMigration.resources
+C:\Users\Максим\source\repos\Contenter\Contenter\obj\Debug\Contenter.csproj.GenerateResource.cache
+C:\Users\Максим\source\repos\Contenter\Contenter\bin\HtmlAgilityPack.dll
+C:\Users\Максим\source\repos\Contenter\Contenter\bin\Ninject.Web.WebApi.WebHost.dll
+C:\Users\Максим\source\repos\Contenter\Contenter\bin\NLog.dll
+C:\Users\Максим\source\repos\Contenter\Contenter\bin\HtmlAgilityPack.pdb
+C:\Users\Максим\source\repos\Contenter\Contenter\bin\HtmlAgilityPack.xml
+C:\Users\Максим\source\repos\Contenter\Contenter\bin\Ninject.Web.WebApi.WebHost.xml
+C:\Users\Максим\source\repos\Contenter\Contenter\bin\NLog.xml
+C:\Users\Максим\source\repos\Contenter\Contenter\obj\Debug\Contenter.Migrations._123.resources
+C:\Users\Максим\source\repos\Contenter — копия\Contenter\bin\ApplicationInsights.config
+C:\Users\Максим\source\repos\Contenter — копия\Contenter\bin\Contenter.dll.config
+C:\Users\Максим\source\repos\Contenter — копия\Contenter\bin\Contenter.dll
+C:\Users\Максим\source\repos\Contenter — копия\Contenter\bin\Contenter.pdb
+C:\Users\Максим\source\repos\Contenter — копия\Contenter\bin\roslyn\csc.exe
+C:\Users\Максим\source\repos\Contenter — копия\Contenter\bin\roslyn\csc.exe.config
+C:\Users\Максим\source\repos\Contenter — копия\Contenter\bin\roslyn\csc.rsp
+C:\Users\Максим\source\repos\Contenter — копия\Contenter\bin\roslyn\csi.exe
+C:\Users\Максим\source\repos\Contenter — копия\Contenter\bin\roslyn\csi.exe.config
+C:\Users\Максим\source\repos\Contenter — копия\Contenter\bin\roslyn\csi.rsp
+C:\Users\Максим\source\repos\Contenter — копия\Contenter\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Максим\source\repos\Contenter — копия\Contenter\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Максим\source\repos\Contenter — копия\Contenter\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Максим\source\repos\Contenter — копия\Contenter\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Максим\source\repos\Contenter — копия\Contenter\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Максим\source\repos\Contenter — копия\Contenter\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Максим\source\repos\Contenter — копия\Contenter\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Максим\source\repos\Contenter — копия\Contenter\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Максим\source\repos\Contenter — копия\Contenter\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Максим\source\repos\Contenter — копия\Contenter\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Максим\source\repos\Contenter — копия\Contenter\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Максим\source\repos\Contenter — копия\Contenter\bin\roslyn\System.AppContext.dll
+C:\Users\Максим\source\repos\Contenter — копия\Contenter\bin\roslyn\System.Console.dll
+C:\Users\Максим\source\repos\Contenter — копия\Contenter\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Максим\source\repos\Contenter — копия\Contenter\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Максим\source\repos\Contenter — копия\Contenter\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Максим\source\repos\Contenter — копия\Contenter\bin\roslyn\System.IO.Compression.dll
+C:\Users\Максим\source\repos\Contenter — копия\Contenter\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Максим\source\repos\Contenter — копия\Contenter\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Максим\source\repos\Contenter — копия\Contenter\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Максим\source\repos\Contenter — копия\Contenter\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Максим\source\repos\Contenter — копия\Contenter\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Максим\source\repos\Contenter — копия\Contenter\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Максим\source\repos\Contenter — копия\Contenter\bin\roslyn\System.Security.Claims.dll
+C:\Users\Максим\source\repos\Contenter — копия\Contenter\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Максим\source\repos\Contenter — копия\Contenter\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Максим\source\repos\Contenter — копия\Contenter\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Максим\source\repos\Contenter — копия\Contenter\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Максим\source\repos\Contenter — копия\Contenter\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Максим\source\repos\Contenter — копия\Contenter\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Максим\source\repos\Contenter — копия\Contenter\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Максим\source\repos\Contenter — копия\Contenter\bin\roslyn\System.ValueTuple.dll
+C:\Users\Максим\source\repos\Contenter — копия\Contenter\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Максим\source\repos\Contenter — копия\Contenter\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Максим\source\repos\Contenter — копия\Contenter\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Максим\source\repos\Contenter — копия\Contenter\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Максим\source\repos\Contenter — копия\Contenter\bin\roslyn\vbc.exe
+C:\Users\Максим\source\repos\Contenter — копия\Contenter\bin\roslyn\vbc.exe.config
+C:\Users\Максим\source\repos\Contenter — копия\Contenter\bin\roslyn\vbc.rsp
+C:\Users\Максим\source\repos\Contenter — копия\Contenter\bin\roslyn\VBCSCompiler.exe
+C:\Users\Максим\source\repos\Contenter — копия\Contenter\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Максим\source\repos\Contenter — копия\Contenter\bin\Antlr3.Runtime.dll
+C:\Users\Максим\source\repos\Contenter — копия\Contenter\bin\EntityFramework.dll
+C:\Users\Максим\source\repos\Contenter — копия\Contenter\bin\EntityFramework.SqlServer.dll
+C:\Users\Максим\source\repos\Contenter — копия\Contenter\bin\HtmlAgilityPack.dll
+C:\Users\Максим\source\repos\Contenter — копия\Contenter\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Максим\source\repos\Contenter — копия\Contenter\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Максим\source\repos\Contenter — копия\Contenter\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Максим\source\repos\Contenter — копия\Contenter\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Максим\source\repos\Contenter — копия\Contenter\bin\Microsoft.AI.Web.dll
+C:\Users\Максим\source\repos\Contenter — копия\Contenter\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Максим\source\repos\Contenter — копия\Contenter\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Максим\source\repos\Contenter — копия\Contenter\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Максим\source\repos\Contenter — копия\Contenter\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Максим\source\repos\Contenter — копия\Contenter\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Максим\source\repos\Contenter — копия\Contenter\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Максим\source\repos\Contenter — копия\Contenter\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Максим\source\repos\Contenter — копия\Contenter\bin\Microsoft.Owin.dll
+C:\Users\Максим\source\repos\Contenter — копия\Contenter\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Максим\source\repos\Contenter — копия\Contenter\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Максим\source\repos\Contenter — копия\Contenter\bin\Microsoft.Owin.Security.dll
+C:\Users\Максим\source\repos\Contenter — копия\Contenter\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Максим\source\repos\Contenter — копия\Contenter\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Максим\source\repos\Contenter — копия\Contenter\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Максим\source\repos\Contenter — копия\Contenter\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Максим\source\repos\Contenter — копия\Contenter\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Максим\source\repos\Contenter — копия\Contenter\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Максим\source\repos\Contenter — копия\Contenter\bin\Newtonsoft.Json.dll
+C:\Users\Максим\source\repos\Contenter — копия\Contenter\bin\Ninject.dll
+C:\Users\Максим\source\repos\Contenter — копия\Contenter\bin\Ninject.Web.Common.dll
+C:\Users\Максим\source\repos\Contenter — копия\Contenter\bin\Ninject.Web.Common.WebHost.dll
+C:\Users\Максим\source\repos\Contenter — копия\Contenter\bin\Ninject.Web.Mvc.dll
+C:\Users\Максим\source\repos\Contenter — копия\Contenter\bin\Ninject.Web.WebApi.dll
+C:\Users\Максим\source\repos\Contenter — копия\Contenter\bin\Ninject.Web.WebApi.WebHost.dll
+C:\Users\Максим\source\repos\Contenter — копия\Contenter\bin\NLog.dll
+C:\Users\Максим\source\repos\Contenter — копия\Contenter\bin\Owin.dll
+C:\Users\Максим\source\repos\Contenter — копия\Contenter\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Максим\source\repos\Contenter — копия\Contenter\bin\System.Net.Http.Formatting.dll
+C:\Users\Максим\source\repos\Contenter — копия\Contenter\bin\System.Web.Helpers.dll
+C:\Users\Максим\source\repos\Contenter — копия\Contenter\bin\System.Web.Http.dll
+C:\Users\Максим\source\repos\Contenter — копия\Contenter\bin\System.Web.Http.WebHost.dll
+C:\Users\Максим\source\repos\Contenter — копия\Contenter\bin\System.Web.Mvc.dll
+C:\Users\Максим\source\repos\Contenter — копия\Contenter\bin\System.Web.Optimization.dll
+C:\Users\Максим\source\repos\Contenter — копия\Contenter\bin\System.Web.Razor.dll
+C:\Users\Максим\source\repos\Contenter — копия\Contenter\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Максим\source\repos\Contenter — копия\Contenter\bin\System.Web.WebPages.dll
+C:\Users\Максим\source\repos\Contenter — копия\Contenter\bin\System.Web.WebPages.Razor.dll
+C:\Users\Максим\source\repos\Contenter — копия\Contenter\bin\WebActivatorEx.dll
+C:\Users\Максим\source\repos\Contenter — копия\Contenter\bin\WebGrease.dll
+C:\Users\Максим\source\repos\Contenter — копия\Contenter\bin\EntityFramework.xml
+C:\Users\Максим\source\repos\Contenter — копия\Contenter\bin\EntityFramework.SqlServer.xml
+C:\Users\Максим\source\repos\Contenter — копия\Contenter\bin\HtmlAgilityPack.pdb
+C:\Users\Максим\source\repos\Contenter — копия\Contenter\bin\HtmlAgilityPack.xml
+C:\Users\Максим\source\repos\Contenter — копия\Contenter\bin\Ninject.xml
+C:\Users\Максим\source\repos\Contenter — копия\Contenter\bin\Ninject.Web.Common.xml
+C:\Users\Максим\source\repos\Contenter — копия\Contenter\bin\Ninject.Web.Common.WebHost.xml
+C:\Users\Максим\source\repos\Contenter — копия\Contenter\bin\Ninject.Web.Mvc.xml
+C:\Users\Максим\source\repos\Contenter — копия\Contenter\bin\Ninject.Web.WebApi.xml
+C:\Users\Максим\source\repos\Contenter — копия\Contenter\bin\Ninject.Web.WebApi.WebHost.xml
+C:\Users\Максим\source\repos\Contenter — копия\Contenter\bin\NLog.xml
+C:\Users\Максим\source\repos\Contenter — копия\Contenter\bin\System.Net.Http.Formatting.xml
+C:\Users\Максим\source\repos\Contenter — копия\Contenter\bin\System.Web.Helpers.xml
+C:\Users\Максим\source\repos\Contenter — копия\Contenter\bin\System.Web.Http.xml
+C:\Users\Максим\source\repos\Contenter — копия\Contenter\bin\System.Web.Http.WebHost.xml
+C:\Users\Максим\source\repos\Contenter — копия\Contenter\bin\System.Web.Mvc.xml
+C:\Users\Максим\source\repos\Contenter — копия\Contenter\bin\System.Web.Razor.xml
+C:\Users\Максим\source\repos\Contenter — копия\Contenter\bin\System.Web.WebPages.xml
+C:\Users\Максим\source\repos\Contenter — копия\Contenter\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Максим\source\repos\Contenter — копия\Contenter\bin\System.Web.WebPages.Razor.xml
+C:\Users\Максим\source\repos\Contenter — копия\Contenter\bin\System.Web.Optimization.xml
+C:\Users\Максим\source\repos\Contenter — копия\Contenter\bin\Antlr3.Runtime.pdb
+C:\Users\Максим\source\repos\Contenter — копия\Contenter\bin\Newtonsoft.Json.xml
+C:\Users\Максим\source\repos\Contenter — копия\Contenter\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Максим\source\repos\Contenter — копия\Contenter\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Максим\source\repos\Contenter — копия\Contenter\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Максим\source\repos\Contenter — копия\Contenter\bin\Microsoft.Owin.xml
+C:\Users\Максим\source\repos\Contenter — копия\Contenter\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Максим\source\repos\Contenter — копия\Contenter\bin\Microsoft.Owin.Security.xml
+C:\Users\Максим\source\repos\Contenter — копия\Contenter\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Максим\source\repos\Contenter — копия\Contenter\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Максим\source\repos\Contenter — копия\Contenter\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Максим\source\repos\Contenter — копия\Contenter\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Максим\source\repos\Contenter — копия\Contenter\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Максим\source\repos\Contenter — копия\Contenter\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Максим\source\repos\Contenter — копия\Contenter\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Максим\source\repos\Contenter — копия\Contenter\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Максим\source\repos\Contenter — копия\Contenter\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Максим\source\repos\Contenter — копия\Contenter\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Максим\source\repos\Contenter — копия\Contenter\bin\Microsoft.AI.Web.xml
+C:\Users\Максим\source\repos\Contenter — копия\Contenter\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Максим\source\repos\Contenter — копия\Contenter\obj\Debug\Contenter.csprojAssemblyReference.cache
+C:\Users\Максим\source\repos\Contenter — копия\Contenter\obj\Debug\Contenter.csproj.CoreCompileInputs.cache
+C:\Users\Максим\source\repos\Contenter — копия\Contenter\obj\Debug\Contenter.csproj.CopyComplete
+C:\Users\Максим\source\repos\Contenter — копия\Contenter\obj\Debug\Contenter.dll
+C:\Users\Максим\source\repos\Contenter — копия\Contenter\obj\Debug\Contenter.pdb
+C:\Users\Максим\source\repos\Contenter — копия\Contenter\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Максим\source\repos\TestTask_MaxHanin\Contenter\bin\ApplicationInsights.config
+C:\Users\Максим\source\repos\TestTask_MaxHanin\Contenter\bin\Contenter.dll.config
+C:\Users\Максим\source\repos\TestTask_MaxHanin\Contenter\bin\Contenter.dll
+C:\Users\Максим\source\repos\TestTask_MaxHanin\Contenter\bin\Contenter.pdb
+C:\Users\Максим\source\repos\TestTask_MaxHanin\Contenter\bin\roslyn\csc.exe
+C:\Users\Максим\source\repos\TestTask_MaxHanin\Contenter\bin\roslyn\csc.exe.config
+C:\Users\Максим\source\repos\TestTask_MaxHanin\Contenter\bin\roslyn\csc.rsp
+C:\Users\Максим\source\repos\TestTask_MaxHanin\Contenter\bin\roslyn\csi.exe
+C:\Users\Максим\source\repos\TestTask_MaxHanin\Contenter\bin\roslyn\csi.exe.config
+C:\Users\Максим\source\repos\TestTask_MaxHanin\Contenter\bin\roslyn\csi.rsp
+C:\Users\Максим\source\repos\TestTask_MaxHanin\Contenter\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Максим\source\repos\TestTask_MaxHanin\Contenter\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Максим\source\repos\TestTask_MaxHanin\Contenter\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Максим\source\repos\TestTask_MaxHanin\Contenter\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Максим\source\repos\TestTask_MaxHanin\Contenter\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Максим\source\repos\TestTask_MaxHanin\Contenter\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Максим\source\repos\TestTask_MaxHanin\Contenter\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Максим\source\repos\TestTask_MaxHanin\Contenter\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Максим\source\repos\TestTask_MaxHanin\Contenter\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Максим\source\repos\TestTask_MaxHanin\Contenter\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Максим\source\repos\TestTask_MaxHanin\Contenter\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Максим\source\repos\TestTask_MaxHanin\Contenter\bin\roslyn\System.AppContext.dll
+C:\Users\Максим\source\repos\TestTask_MaxHanin\Contenter\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Максим\source\repos\TestTask_MaxHanin\Contenter\bin\roslyn\System.Console.dll
+C:\Users\Максим\source\repos\TestTask_MaxHanin\Contenter\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Максим\source\repos\TestTask_MaxHanin\Contenter\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Максим\source\repos\TestTask_MaxHanin\Contenter\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Максим\source\repos\TestTask_MaxHanin\Contenter\bin\roslyn\System.IO.Compression.dll
+C:\Users\Максим\source\repos\TestTask_MaxHanin\Contenter\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Максим\source\repos\TestTask_MaxHanin\Contenter\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Максим\source\repos\TestTask_MaxHanin\Contenter\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Максим\source\repos\TestTask_MaxHanin\Contenter\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Максим\source\repos\TestTask_MaxHanin\Contenter\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Максим\source\repos\TestTask_MaxHanin\Contenter\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Максим\source\repos\TestTask_MaxHanin\Contenter\bin\roslyn\System.Security.Claims.dll
+C:\Users\Максим\source\repos\TestTask_MaxHanin\Contenter\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Максим\source\repos\TestTask_MaxHanin\Contenter\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Максим\source\repos\TestTask_MaxHanin\Contenter\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Максим\source\repos\TestTask_MaxHanin\Contenter\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Максим\source\repos\TestTask_MaxHanin\Contenter\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Максим\source\repos\TestTask_MaxHanin\Contenter\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Максим\source\repos\TestTask_MaxHanin\Contenter\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Максим\source\repos\TestTask_MaxHanin\Contenter\bin\roslyn\System.ValueTuple.dll
+C:\Users\Максим\source\repos\TestTask_MaxHanin\Contenter\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Максим\source\repos\TestTask_MaxHanin\Contenter\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Максим\source\repos\TestTask_MaxHanin\Contenter\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Максим\source\repos\TestTask_MaxHanin\Contenter\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Максим\source\repos\TestTask_MaxHanin\Contenter\bin\roslyn\vbc.exe
+C:\Users\Максим\source\repos\TestTask_MaxHanin\Contenter\bin\roslyn\vbc.exe.config
+C:\Users\Максим\source\repos\TestTask_MaxHanin\Contenter\bin\roslyn\vbc.rsp
+C:\Users\Максим\source\repos\TestTask_MaxHanin\Contenter\bin\roslyn\VBCSCompiler.exe
+C:\Users\Максим\source\repos\TestTask_MaxHanin\Contenter\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Максим\source\repos\TestTask_MaxHanin\Contenter\bin\Antlr3.Runtime.dll
+C:\Users\Максим\source\repos\TestTask_MaxHanin\Contenter\bin\EntityFramework.dll
+C:\Users\Максим\source\repos\TestTask_MaxHanin\Contenter\bin\EntityFramework.SqlServer.dll
+C:\Users\Максим\source\repos\TestTask_MaxHanin\Contenter\bin\HtmlAgilityPack.dll
+C:\Users\Максим\source\repos\TestTask_MaxHanin\Contenter\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Максим\source\repos\TestTask_MaxHanin\Contenter\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Максим\source\repos\TestTask_MaxHanin\Contenter\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Максим\source\repos\TestTask_MaxHanin\Contenter\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Максим\source\repos\TestTask_MaxHanin\Contenter\bin\Microsoft.AI.Web.dll
+C:\Users\Максим\source\repos\TestTask_MaxHanin\Contenter\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Максим\source\repos\TestTask_MaxHanin\Contenter\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Максим\source\repos\TestTask_MaxHanin\Contenter\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Максим\source\repos\TestTask_MaxHanin\Contenter\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Максим\source\repos\TestTask_MaxHanin\Contenter\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Максим\source\repos\TestTask_MaxHanin\Contenter\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Максим\source\repos\TestTask_MaxHanin\Contenter\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Максим\source\repos\TestTask_MaxHanin\Contenter\bin\Microsoft.Owin.dll
+C:\Users\Максим\source\repos\TestTask_MaxHanin\Contenter\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Максим\source\repos\TestTask_MaxHanin\Contenter\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Максим\source\repos\TestTask_MaxHanin\Contenter\bin\Microsoft.Owin.Security.dll
+C:\Users\Максим\source\repos\TestTask_MaxHanin\Contenter\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Максим\source\repos\TestTask_MaxHanin\Contenter\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Максим\source\repos\TestTask_MaxHanin\Contenter\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Максим\source\repos\TestTask_MaxHanin\Contenter\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Максим\source\repos\TestTask_MaxHanin\Contenter\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Максим\source\repos\TestTask_MaxHanin\Contenter\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Максим\source\repos\TestTask_MaxHanin\Contenter\bin\Newtonsoft.Json.dll
+C:\Users\Максим\source\repos\TestTask_MaxHanin\Contenter\bin\Ninject.dll
+C:\Users\Максим\source\repos\TestTask_MaxHanin\Contenter\bin\Ninject.Web.Common.dll
+C:\Users\Максим\source\repos\TestTask_MaxHanin\Contenter\bin\Ninject.Web.Common.WebHost.dll
+C:\Users\Максим\source\repos\TestTask_MaxHanin\Contenter\bin\Ninject.Web.Mvc.dll
+C:\Users\Максим\source\repos\TestTask_MaxHanin\Contenter\bin\Ninject.Web.WebApi.dll
+C:\Users\Максим\source\repos\TestTask_MaxHanin\Contenter\bin\Ninject.Web.WebApi.WebHost.dll
+C:\Users\Максим\source\repos\TestTask_MaxHanin\Contenter\bin\NLog.dll
+C:\Users\Максим\source\repos\TestTask_MaxHanin\Contenter\bin\Owin.dll
+C:\Users\Максим\source\repos\TestTask_MaxHanin\Contenter\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Максим\source\repos\TestTask_MaxHanin\Contenter\bin\System.Net.Http.Formatting.dll
+C:\Users\Максим\source\repos\TestTask_MaxHanin\Contenter\bin\System.Web.Helpers.dll
+C:\Users\Максим\source\repos\TestTask_MaxHanin\Contenter\bin\System.Web.Http.dll
+C:\Users\Максим\source\repos\TestTask_MaxHanin\Contenter\bin\System.Web.Http.WebHost.dll
+C:\Users\Максим\source\repos\TestTask_MaxHanin\Contenter\bin\System.Web.Mvc.dll
+C:\Users\Максим\source\repos\TestTask_MaxHanin\Contenter\bin\System.Web.Optimization.dll
+C:\Users\Максим\source\repos\TestTask_MaxHanin\Contenter\bin\System.Web.Razor.dll
+C:\Users\Максим\source\repos\TestTask_MaxHanin\Contenter\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Максим\source\repos\TestTask_MaxHanin\Contenter\bin\System.Web.WebPages.dll
+C:\Users\Максим\source\repos\TestTask_MaxHanin\Contenter\bin\System.Web.WebPages.Razor.dll
+C:\Users\Максим\source\repos\TestTask_MaxHanin\Contenter\bin\WebActivatorEx.dll
+C:\Users\Максим\source\repos\TestTask_MaxHanin\Contenter\bin\WebGrease.dll
+C:\Users\Максим\source\repos\TestTask_MaxHanin\Contenter\bin\EntityFramework.xml
+C:\Users\Максим\source\repos\TestTask_MaxHanin\Contenter\bin\EntityFramework.SqlServer.xml
+C:\Users\Максим\source\repos\TestTask_MaxHanin\Contenter\bin\HtmlAgilityPack.pdb
+C:\Users\Максим\source\repos\TestTask_MaxHanin\Contenter\bin\HtmlAgilityPack.xml
+C:\Users\Максим\source\repos\TestTask_MaxHanin\Contenter\bin\Ninject.xml
+C:\Users\Максим\source\repos\TestTask_MaxHanin\Contenter\bin\Ninject.Web.Common.xml
+C:\Users\Максим\source\repos\TestTask_MaxHanin\Contenter\bin\Ninject.Web.Common.WebHost.xml
+C:\Users\Максим\source\repos\TestTask_MaxHanin\Contenter\bin\Ninject.Web.Mvc.xml
+C:\Users\Максим\source\repos\TestTask_MaxHanin\Contenter\bin\Ninject.Web.WebApi.xml
+C:\Users\Максим\source\repos\TestTask_MaxHanin\Contenter\bin\Ninject.Web.WebApi.WebHost.xml
+C:\Users\Максим\source\repos\TestTask_MaxHanin\Contenter\bin\NLog.xml
+C:\Users\Максим\source\repos\TestTask_MaxHanin\Contenter\bin\System.Net.Http.Formatting.xml
+C:\Users\Максим\source\repos\TestTask_MaxHanin\Contenter\bin\System.Web.Helpers.xml
+C:\Users\Максим\source\repos\TestTask_MaxHanin\Contenter\bin\System.Web.Http.xml
+C:\Users\Максим\source\repos\TestTask_MaxHanin\Contenter\bin\System.Web.Http.WebHost.xml
+C:\Users\Максим\source\repos\TestTask_MaxHanin\Contenter\bin\System.Web.Mvc.xml
+C:\Users\Максим\source\repos\TestTask_MaxHanin\Contenter\bin\System.Web.Razor.xml
+C:\Users\Максим\source\repos\TestTask_MaxHanin\Contenter\bin\System.Web.WebPages.xml
+C:\Users\Максим\source\repos\TestTask_MaxHanin\Contenter\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Максим\source\repos\TestTask_MaxHanin\Contenter\bin\System.Web.WebPages.Razor.xml
+C:\Users\Максим\source\repos\TestTask_MaxHanin\Contenter\bin\System.Web.Optimization.xml
+C:\Users\Максим\source\repos\TestTask_MaxHanin\Contenter\bin\Antlr3.Runtime.pdb
+C:\Users\Максим\source\repos\TestTask_MaxHanin\Contenter\bin\Newtonsoft.Json.xml
+C:\Users\Максим\source\repos\TestTask_MaxHanin\Contenter\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Максим\source\repos\TestTask_MaxHanin\Contenter\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Максим\source\repos\TestTask_MaxHanin\Contenter\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Максим\source\repos\TestTask_MaxHanin\Contenter\bin\Microsoft.Owin.xml
+C:\Users\Максим\source\repos\TestTask_MaxHanin\Contenter\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Максим\source\repos\TestTask_MaxHanin\Contenter\bin\Microsoft.Owin.Security.xml
+C:\Users\Максим\source\repos\TestTask_MaxHanin\Contenter\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Максим\source\repos\TestTask_MaxHanin\Contenter\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Максим\source\repos\TestTask_MaxHanin\Contenter\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Максим\source\repos\TestTask_MaxHanin\Contenter\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Максим\source\repos\TestTask_MaxHanin\Contenter\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Максим\source\repos\TestTask_MaxHanin\Contenter\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Максим\source\repos\TestTask_MaxHanin\Contenter\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Максим\source\repos\TestTask_MaxHanin\Contenter\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Максим\source\repos\TestTask_MaxHanin\Contenter\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Максим\source\repos\TestTask_MaxHanin\Contenter\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Максим\source\repos\TestTask_MaxHanin\Contenter\bin\Microsoft.AI.Web.xml
+C:\Users\Максим\source\repos\TestTask_MaxHanin\Contenter\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Максим\source\repos\TestTask_MaxHanin\Contenter\obj\Debug\Contenter.csproj.CoreCompileInputs.cache
+C:\Users\Максим\source\repos\TestTask_MaxHanin\Contenter\obj\Debug\Contenter.csproj.CopyComplete
+C:\Users\Максим\source\repos\TestTask_MaxHanin\Contenter\obj\Debug\Contenter.dll
+C:\Users\Максим\source\repos\TestTask_MaxHanin\Contenter\obj\Debug\Contenter.pdb
