@@ -19,14 +19,11 @@ namespace Contenter.Controllers.Api
         private readonly IEntityRepository<Membership> _repository;
 
         [Inject]
-        public MembershipApiController(IEntityRepository<Membership> repository)
-        {
+        public MembershipApiController(IEntityRepository<Membership> repository) =>
             _repository = repository ?? throw new ArgumentNullException(nameof(repository));
-        }
-        public MembershipApiController()
-        {
 
-        }
+        public MembershipApiController() { }
+       
         [HttpGet]
         public async Task<IHttpActionResult> GetMembershipsAsync()
         {
@@ -113,24 +110,21 @@ namespace Contenter.Controllers.Api
             try
             {
 
-                if (membershipViewModel != null)
-                {
-                    var membership = new Membership();
-                    membership.Id = membershipViewModel.Id;
-                    membership.MemebrshipNumber = (Int32)membershipViewModel.MemebrshipNumber;
-                    membership.PersonId = membershipViewModel.PersonId;
-                    membership.Type = (MembershipType)Enum.Parse(typeof(MembershipType), membershipViewModel.Type);
-                    membership.AccountBalance = membershipViewModel.AccountBalance;
+                _ = membershipViewModel ?? throw new ArgumentNullException(paramName: nameof(membershipViewModel),
+                    message: "MembershipViewModel should not be null");
 
-                    _repository.Create(membership);
-                    await _repository.SaveAsync().ConfigureAwait(false);
-                    return Ok();
-                }
-                else
-                {
-                    errorBlock = MakeErrorBlock("CLO001", "Could not add a membership. Membership object was null");
-                    return MakeCustomResponse(400, errorBlock);
-                }
+                var membership = new Membership();
+                membership.Id = membershipViewModel.Id;
+                membership.MemebrshipNumber = (Int32)membershipViewModel.MemebrshipNumber;
+                membership.PersonId = membershipViewModel.PersonId;
+                membership.Type = (MembershipType)Enum.Parse(typeof(MembershipType), membershipViewModel.Type);
+                membership.AccountBalance = membershipViewModel.AccountBalance;
+
+                _repository.Create(membership);
+                await _repository.SaveAsync().ConfigureAwait(false);
+                return Ok();
+
+
             }
             catch (Exception ex)
             {
@@ -146,34 +140,21 @@ namespace Contenter.Controllers.Api
             var errorBlock = new ResponseMessage();
             try
             {
-                if (membershipViewModel != null)
-                {
-                    if (membershipViewModel.Id != 0)
-                    {
-                        var membership = new Membership();
-                        membership.Id = membershipViewModel.Id;
-                        membership.MemebrshipNumber = (Int32)membershipViewModel.MemebrshipNumber;
-                        membership.PersonId = membershipViewModel.PersonId;
-                        membership.Type = (MembershipType)Enum.Parse(typeof(MembershipType), membershipViewModel.Type);
-                        membership.AccountBalance = membershipViewModel.AccountBalance;
+                _ = membershipViewModel ?? throw new ArgumentNullException(paramName: nameof(membershipViewModel),
+                    message: "MembershipViewModel should not be null");
 
-                        _repository.Update(membership);
+                var membership = new Membership();
+                membership.Id = membershipViewModel.Id;
+                membership.MemebrshipNumber = (Int32)membershipViewModel.MemebrshipNumber;
+                membership.PersonId = membershipViewModel.PersonId;
+                membership.Type = (MembershipType)Enum.Parse(typeof(MembershipType), membershipViewModel.Type);
+                membership.AccountBalance = membershipViewModel.AccountBalance;
 
-                        await _repository.SaveAsync().ConfigureAwait(false);
-                        return Ok();
-                    }
-                    else
-                    {
-                        errorBlock = MakeErrorBlock("CLO001", "Could not edit a membership. Id was null");
-                        return MakeCustomResponse(400, errorBlock);
-                    }
+                _repository.Update(membership);
 
-                }
-                else
-                {
-                    errorBlock = MakeErrorBlock("CLO001", "Could not edit a membership. Membership object was null or not valid");
-                    return MakeCustomResponse(400, errorBlock);
-                }
+                await _repository.SaveAsync().ConfigureAwait(false);
+                return Ok();
+
             }
             catch (Exception ex)
             {

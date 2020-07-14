@@ -21,14 +21,10 @@ namespace Contenter.Controllers.Api
         private readonly IEntityRepository<User> _repository;
 
         [Inject]
-        public UsersApiController(IEntityRepository<User> repository)
-        {
+        public UsersApiController(IEntityRepository<User> repository) =>
             _repository = repository ?? throw new ArgumentNullException(nameof(repository));
-        }
-        public UsersApiController()
-        {
 
-        }
+        public UsersApiController() { }
 
         [HttpGet]
         public async Task<IHttpActionResult> GetUsersAsync()
@@ -38,7 +34,7 @@ namespace Contenter.Controllers.Api
             {
                 var users = _repository.GetItems();
 
-                var usersList = 
+                var usersList =
                     await users.ToListAsync().ConfigureAwait(false);
 
                 return Ok(usersList);
@@ -74,7 +70,7 @@ namespace Contenter.Controllers.Api
 
         }
 
-        
+
         [HttpPost]
         public async Task<IHttpActionResult> PostUserAsync([FromBody]User user)
         {
@@ -158,7 +154,7 @@ namespace Contenter.Controllers.Api
             }
 
         }
-      
+
         protected override void Dispose(bool disposing)
         {
             _repository.Dispose();

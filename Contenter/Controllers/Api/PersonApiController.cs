@@ -19,14 +19,10 @@ namespace Contenter.Controllers.Api
         private readonly IEntityRepository<Person> _repository;
 
         [Inject]
-        public PersonApiController(IEntityRepository<Person> repository)
-        {
+        public PersonApiController(IEntityRepository<Person> repository) =>
             _repository = repository ?? throw new ArgumentNullException(nameof(repository));
-        }
-        public PersonApiController()
-        {
 
-        }
+        public PersonApiController() { }
 
 
         [HttpGet]
@@ -35,8 +31,8 @@ namespace Contenter.Controllers.Api
             var errorBlock = new ResponseMessage();
             try
             {
-                
-                var persons = 
+
+                var persons =
                     await _repository.GetItems().ToListAsync().ConfigureAwait(false);
 
                 var personsViewModels = from person in persons
@@ -69,11 +65,10 @@ namespace Contenter.Controllers.Api
                 if (id < 0)
                     return BadRequest();
 
-                var person = 
+                var person =
                     await _repository.GetItemAsync(id).ConfigureAwait(false);
 
-                if (person == null)
-                    return NotFound();
+                if (person == null) return NotFound();
 
                 return Ok(new PersonViewModel
                 {
@@ -98,21 +93,17 @@ namespace Contenter.Controllers.Api
             var errorBlock = new ResponseMessage();
             try
             {
-                if (person != null)
-                {
-                    _repository.Create(person);
-                    await _repository.SaveAsync().ConfigureAwait(false);
-                    return Ok();
-                }
-                else
-                {
-                    errorBlock = MakeErrorBlock("CLO001", "Could not add the person, because it was null or not valid");
-                    return MakeCustomResponse(400, errorBlock);
-                }
+                _ = person ?? throw new ArgumentNullException(paramName: nameof(person),
+                    message: "Person should not be null");
+
+                _repository.Create(person);
+                await _repository.SaveAsync().ConfigureAwait(false);
+                return Ok();
+
             }
             catch (Exception ex)
             {
-                errorBlock = MakeErrorBlock("CLO001", "Could not add the person");
+                errorBlock = MakeErrorBlock("CLO001", "Could not add the person", ex);
                 return MakeCustomResponse(400, errorBlock);
             }
 
@@ -124,27 +115,14 @@ namespace Contenter.Controllers.Api
             var errorBlock = new ResponseMessage();
             try
             {
-                if (person != null)
-                {
-                    if (person.Id != 0)
-                    {
-                        _repository.Update(person);
+                _ = person ?? throw new ArgumentNullException(paramName: nameof(person),
+                    message: "Person should not be null");
 
-                        await _repository.SaveAsync().ConfigureAwait(false);
-                        return Ok();
-                    }
-                    else
-                    {
-                        errorBlock = MakeErrorBlock("CLO001", "Could not update the person, because Id was null");
-                        return MakeCustomResponse(400, errorBlock);
-                    }
+                _repository.Update(person);
 
-                }
-                else
-                {
-                    errorBlock = MakeErrorBlock("CLO001", "Could not update the person, because it was null or not valid");
-                    return MakeCustomResponse(400, errorBlock);
-                }
+                await _repository.SaveAsync().ConfigureAwait(false);
+                return Ok();
+
             }
             catch (Exception ex)
             {

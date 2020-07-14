@@ -11,16 +11,14 @@ namespace Contenter.Controllers
 {
     public class UsersController : Controller
     {
-        IEntityRepository<User> db1;
-        [Inject]
-        public UsersController(IEntityRepository<User> r1)
-        {
-            db1 = r1;
-        }
-        public UsersController()
-        {
+        IEntityRepository<User> _repository;
 
-        }
+        [Inject]
+        public UsersController(IEntityRepository<User> repository) =>
+            _repository = repository ?? throw new ArgumentNullException(nameof(repository));
+
+        public UsersController() { }
+
         public ActionResult Index()
         {
 

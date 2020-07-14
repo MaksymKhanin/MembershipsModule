@@ -1,4 +1,5 @@
-﻿using System.Data.Entity;
+﻿using System;
+using System.Data.Entity;
 using System.Data.Entity.Core.Objects;
 using System.Data.Entity.Infrastructure;
 using System.Security.Claims;
@@ -30,14 +31,12 @@ namespace Contenter.Models
 
         [Inject]
         public ApplicationDbContext()
-            : base("DefaultConnection", throwIfV1Schema: false)
-        {
-        }
+            : base("DefaultConnection", throwIfV1Schema: false) { }
 
-        public static ApplicationDbContext Create()
-        {
-            return new ApplicationDbContext();
-        }
+
+        public static ApplicationDbContext Create() =>
+            new ApplicationDbContext();
+        
     }
 
     public class DbInitializer : DropCreateDatabaseIfModelChanges<ApplicationDbContext>
@@ -84,12 +83,12 @@ namespace Contenter.Models
 
     public static class ContextExtensions
     {
-        public static string GetTableName<T>(this DbContext context) where T : class
-        {
-            ObjectContext objectContext = ((IObjectContextAdapter)context).ObjectContext;
-
-            return objectContext.GetTableName<T>();
-        }
+        
+        public static string GetTableName<T>(this DbContext context) where T : class =>
+            context is IObjectContextAdapter objContext 
+            ? objContext.ObjectContext.GetTableName<T>() 
+            : throw new InvalidCastException();
+        
 
         public static string GetTableName<T>(this ObjectContext context) where T : class
         {

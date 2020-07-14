@@ -21,30 +21,22 @@ namespace Contenter.Infrastructure.Repository.DI.Implementation
             _dbSet = cx.Set<TEntity>();
         }
 
-        public IQueryable<TEntity> GetItems(int id)
-        {
-            return _dbSet.AsNoTracking().AsQueryable();
-        }
+        public IQueryable<TEntity> GetItems(int id) =>
+            _dbSet.AsNoTracking().AsQueryable();
 
-        public IQueryable<TEntity> GetItems()
-        {
-            return _dbSet.AsNoTracking().AsQueryable();
-        }
 
-        public Task<TEntity> GetItemAsync(int id)
-        {
-            return _dbSet.FindAsync(id);
-        }
+        public IQueryable<TEntity> GetItems() =>
+            _dbSet.AsNoTracking().AsQueryable();
 
-        public IQueryable<TEntity> Get(Func<TEntity, bool> predicate)
-        {
-            return _dbSet.AsNoTracking().Where(predicate).AsQueryable();
-        }
 
-        public IQueryable<TEntity> GetWithInclude(params Expression<Func<TEntity, object>>[] includeProperties)
-        {
-            return Include(includeProperties).AsQueryable();
-        }
+        public Task<TEntity> GetItemAsync(int id) =>
+            _dbSet.FindAsync(id);
+
+        public IQueryable<TEntity> Get(Func<TEntity, bool> predicate) =>
+            _dbSet.AsNoTracking().Where(predicate).AsQueryable();
+
+        public IQueryable<TEntity> GetWithInclude(params Expression<Func<TEntity, object>>[] includeProperties) =>
+            Include(includeProperties).AsQueryable();
 
         public IQueryable<TEntity> GetWithInclude(Func<TEntity, bool> predicate,
             params Expression<Func<TEntity, object>>[] includeProperties)
@@ -62,7 +54,7 @@ namespace Contenter.Infrastructure.Repository.DI.Implementation
 
         public void Create(TEntity entity)
         {
-           _dbSet.Add(entity);
+            _dbSet.Add(entity);
         }
 
         public void Update(TEntity entity)
@@ -74,13 +66,12 @@ namespace Contenter.Infrastructure.Repository.DI.Implementation
         {
             var entity = await _dbSet.FindAsync(id).ConfigureAwait(false);
             if (entity != null)
-               _dbSet.Remove(entity);
+                _dbSet.Remove(entity);
         }
 
-        public Task SaveAsync()
-        {
-            return _context.SaveChangesAsync();
-        }
+        public Task SaveAsync() =>
+           _context.SaveChangesAsync();
+
 
         private bool disposed = false;
 
@@ -93,7 +84,7 @@ namespace Contenter.Infrastructure.Repository.DI.Implementation
                     _context.Dispose();
                 }
             }
-            this.disposed = true; 
+            this.disposed = true;
         }
 
         public void Dispose()
